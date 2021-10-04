@@ -22,15 +22,10 @@ const routes = [
         name: "simple-imbue-calculator",
         component: SimpleImbueCalculator,
     },
-    {
-        path: "*",
-        redirect: "/",
-    }
 ];
 
 const router = new VueRouter({
     base: '/diablo2-tools',
-    mode: 'history',
     routes
 });
 
