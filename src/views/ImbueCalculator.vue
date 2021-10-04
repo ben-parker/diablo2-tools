@@ -38,7 +38,7 @@
 		<div id="results">
 			<div v-for="(val, key) in results" :key="key">
 				<h3>{{ key }}</h3>
-				<item-type-table :items="val" :added="added" :type="key" :affixes="affixes" :maxAffixLevel="maxAffixLevel(key)" />
+				<item-type-table :items="val" :added="added" :type="key" :affixes="affixes" :maxAffixLevel="maxAffixLevels[key]" />
 			</div>
 		</div>
 	</div>
@@ -73,6 +73,7 @@ export default {
 				"Paladin Shields",
 				"Heads",
 			],
+			maxAffixLevels: {},
 		};
 	},
 	methods: {
@@ -83,7 +84,9 @@ export default {
 			// waiting
 			const baseUrl = process.env.VUE_APP_BASE_URL;
 			this.results = [];
+			this.maxAffixLevels = {};
 			const itemTypes = this.itemTypes.map(t => t.type);
+
 			// load item information
 			let response = await fetch(baseUrl + "/data/armor.json");
 			let data = await response.json();
@@ -100,6 +103,10 @@ export default {
 				}
 				return prev;
 			}, {});
+
+			for (const type of Object.keys(results)) {
+				this.maxAffixLevels[type] = this.maxAffixLevel(type);
+			}
 
 			this.results = results;
 			// not waiting
