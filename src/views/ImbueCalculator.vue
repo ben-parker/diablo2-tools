@@ -231,8 +231,9 @@ export default {
 		},
 	},
 	async mounted() {
-		const p = await fetch("/data/prefixes.json");
-		const s = await fetch("/data/suffixes.json");
+		const baseUrl = process.env.VUE_APP_BASE_URL;
+		const p = await fetch(baseUrl + "/data/prefixes.json");
+		const s = await fetch(baseUrl + "/data/suffixes.json");
 		const prefixes = await p.json();
 		const suffixes = await s.json();
 
