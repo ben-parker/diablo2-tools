@@ -25,6 +25,7 @@ const routes = [
 ];
 
 const router = new VueRouter({
+    base: '/diablo2-tools',
     mode: 'history',
     routes
 });
