@@ -22,6 +22,10 @@ const routes = [
         name: "simple-imbue-calculator",
         component: SimpleImbueCalculator,
     },
+    {
+        path: "*",
+        redirect: "/",
+    }
 ];
 
 const router = new VueRouter({

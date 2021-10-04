@@ -81,10 +81,11 @@ export default {
 		},
 		async generateResults() {
 			// waiting
+			const baseUrl = process.env.VUE_APP_BASE_URL;
 			this.results = [];
 			const itemTypes = this.itemTypes.map(t => t.type);
 			// load item information
-			let response = await fetch("/data/armor.json");
+			let response = await fetch(baseUrl + "/data/armor.json");
 			let data = await response.json();
 			const armor = data.armor; //.filter(a => a.types.some(this.itemTypes));
 			const items = armor;
