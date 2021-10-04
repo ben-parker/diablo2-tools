@@ -1,0 +1,1279 @@
+{
+	"suffixes": [
+		{
+			"name": "Strength",
+			"group": "+ Strength",
+			"effect": "+1-2 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "1", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "1", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "1", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "5", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "5", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "5", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "5", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "12", "rarity": "rare" },
+				{ "type": "Melee Weapons", "alvl": "12", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "12", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Might",
+			"group": "+ Strength",
+			"effect": "+3-5 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "10", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "10", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "10", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "10", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "10", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "21", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "21", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "21", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "21", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "33", "rarity": "rare" },
+				{ "type": "Melee Weapons", "alvl": "33", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "33", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Ox",
+			"group": "+ Strength",
+			"effect": "+6-9 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "26", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "26", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "26", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "38", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "38", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "38", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "38", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "45", "rarity": "rare" },
+				{ "type": "Melee Weapons", "alvl": "45", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "45", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Giant",
+			"group": "+ Strength",
+			"effect": "+10-15 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "42", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "42", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "42", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "42", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "42", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "55", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "55", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "55", "rarity": "rare" },
+				{ "type": "Melee Weapons", "alvl": "59", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Titan",
+			"group": "+ Strength",
+			"effect": "+16-20 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "58", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "58", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "58", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "58", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "58", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "74", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "74", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "74", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Atlas",
+			"group": "+ Strength",
+			"effect": "+21-30 to Strength",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "71", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "71", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "71", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "71", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "71", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Dexterity",
+			"group": "+ Dexterity",
+			"effect": "+1-3 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "2", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "2", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "2", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "2", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "6", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "6", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "13", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "13", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Skill",
+			"group": "+ Dexterity",
+			"effect": "+3-5 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "11", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "11", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "11", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "11", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "22", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "22", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "34", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "34", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Accuracy",
+			"group": "+ Dexterity",
+			"effect": "+6-9 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "27", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "27", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "27", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "27", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "39", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "39", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "46", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "46", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Precision",
+			"group": "+ Dexterity",
+			"effect": "+10-15 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "43", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "43", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "43", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "43", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "56", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "56", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "60", "rarity": "magic" },
+				{ "type": "Boots", "alvl": "60", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Perfection",
+			"group": "+ Dexterity",
+			"effect": "+16-20 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "59", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "59", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "59", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "59", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "75", "rarity": "magic" },
+				{ "type": "Rings", "alvl": "75", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Nirvana",
+			"group": "+ Dexterity",
+			"effect": "+21-30 to Dexterity",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "72", "rarity": "magic" },
+				{ "type": "Bows", "alvl": "72", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "72", "rarity": "magic" },
+				{ "type": "Crossbows", "alvl": "72", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Energy",
+			"group": "+ Energy",
+			"effect": "+1-3 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "1", "rarity": "rare" },
+				{ "type": "Staves", "alvl": "1", "rarity": "rare" },
+				{ "type": "Wands", "alvl": "1", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "4", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "4", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "7", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Mind",
+			"group": "+ Energy",
+			"effect": "+4-6 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "7", "rarity": "rare" },
+				{ "type": "Staves", "alvl": "7", "rarity": "rare" },
+				{ "type": "Wands", "alvl": "7", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "10", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "10", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "13", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Brilliance",
+			"group": "+ Energy",
+			"effect": "+7-10 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "13", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "13", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "13", "rarity": "rare" },
+				{ "type": "Staves", "alvl": "13", "rarity": "rare" },
+				{ "type": "Wands", "alvl": "13", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "16", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "16", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "21", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Sorcery",
+			"group": "+ Energy",
+			"effect": "+11-15 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "21", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "21", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "21", "rarity": "rare" },
+				{ "type": "Staves", "alvl": "21", "rarity": "rare" },
+				{ "type": "Wands", "alvl": "21", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "26", "rarity": "magic" },
+				{ "type": "Scepters", "alvl": "26", "rarity": "magic" },
+				{ "type": "Rings", "alvl": "31", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Wizardry",
+			"group": "+ Energy",
+			"effect": "+16-20 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "31", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "31", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "31", "rarity": "rare" },
+				{ "type": "Staves", "alvl": "31", "rarity": "rare" },
+				{ "type": "Wands", "alvl": "31", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "41", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Enlightenment",
+			"group": "+ Energy",
+			"effect": "+21-30 to Energy",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "41", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "41", "rarity": "magic" },
+				{ "type": "Orbs", "alvl": "41", "rarity": "magic" },
+				{ "type": "Staves", "alvl": "41", "rarity": "magic" },
+				{ "type": "Wands", "alvl": "41", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Jackal",
+			"group": "+ Life",
+			"effect": "+1-5 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "1", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "1", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "1", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "4", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "4", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "8", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "8", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "8", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "8", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "8", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Fox",
+			"group": "+ Life",
+			"effect": "+6-10 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "7", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "7", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "7", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "11", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "11", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "17", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "17", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "17", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "17", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "17", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Wolf",
+			"group": "+ Life",
+			"effect": "+11-20 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "15", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "15", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "15", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "27", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "27", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "34", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "34", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "34", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "34", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "34", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Tiger",
+			"group": "+ Life",
+			"effect": "+21-30 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "20", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "20", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "20", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "20", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "20", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "43", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "43", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "51", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "51", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "51", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "51", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "51", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Mammoth",
+			"group": "+ Life",
+			"effect": "+31-40 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "25", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "25", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "25", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "25", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "25", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "59", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "59", "rarity": "rare" },
+				{ "type": "Clubs", "alvl": "68", "rarity": "rare" },
+				{ "type": "Hammers", "alvl": "68", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "68", "rarity": "rare" },
+				{ "type": "Maces", "alvl": "68", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "68", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Colossus",
+			"group": "+ Life",
+			"effect": "+41-60 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "30", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "30", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "30", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "30", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "30", "rarity": "rare" },
+				{ "type": "Pelts", "alvl": "75", "rarity": "magic" },
+				{ "type": "Shields", "alvl": "75", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Squid",
+			"group": "+ Life",
+			"effect": "+61-80 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "40", "rarity": "rare" },
+				{ "type": "Barbarian Helms", "alvl": "40", "rarity": "magic" },
+				{ "type": "Belts", "alvl": "40", "rarity": "magic" },
+				{ "type": "Body Armor", "alvl": "40", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "40", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Whale",
+			"group": "+ Life",
+			"effect": "+81-100 to Life",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "50", "rarity": "magic" },
+				{ "type": "Barbarian Helms", "alvl": "50", "rarity": "magic" },
+				{ "type": "Belts", "alvl": "50", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "50", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Light",
+			"group": "+ Light Radius",
+			"effect": "+1 to Light Radius, +15 To Attack Rating",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "6", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "6", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "6", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "6", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Radiance",
+			"group": "+ Light Radius",
+			"effect": "+3 to Light Radius, +30 To Attack Rating",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "15", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "15", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "15", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "15", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "15", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Sun",
+			"group": "+ Light Radius",
+			"effect": "+5 to Light Radius, +5% Bonus To Attack Rating",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "17", "rarity": "rare" },
+				{ "type": "Bows", "alvl": "17", "rarity": "rare" },
+				{ "type": "Crossbows", "alvl": "17", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "17", "rarity": "rare" },
+				{ "type": "Helms", "alvl": "17", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "17", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "17", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Worth",
+			"group": "+ Minimum Damage",
+			"effect": "+1-3 to Minimum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "1", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "15", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Measure",
+			"group": "+ Minimum Damage",
+			"effect": "+3-5 to Minimum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "12", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "37", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "37", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "37", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Excellence",
+			"group": "+ Minimum Damage",
+			"effect": "+5-9 to Minimum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "24", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "59", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "59", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "59", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Performance",
+			"group": "+ Minimum Damage",
+			"effect": "+10-13 to Minimum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "48", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "81", "rarity": "magic" },
+				{ "type": "Amulets", "alvl": "81", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "81", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Transcendence",
+			"group": "+ Minimum Damage",
+			"effect": "+15-20 to Minimum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "76", "rarity": "rare" }]
+		},
+		{
+			"name": "Craftsmanship",
+			"group": "+ Maximum Damage",
+			"effect": "+1-5 to Maximum Damage",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "1", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "1", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Quality",
+			"group": "+ Maximum Damage",
+			"effect": "+2-8 to Maximum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "4", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "30", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Maiming",
+			"group": "+ Maximum Damage",
+			"effect": "+3-12 to Maximum Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "7", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "42", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "45", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "42", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "42", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Slaying",
+			"group": "+ Maximum Damage",
+			"effect": "+5-7 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "11", "rarity": "rare" }]
+		},
+		{
+			"name": "Gore",
+			"group": "+ Maximum Damage",
+			"effect": "+8-10 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "14", "rarity": "rare" }]
+		},
+		{
+			"name": "Carnage",
+			"group": "+ Maximum Damage",
+			"effect": "+11-14 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "19", "rarity": "rare" }]
+		},
+		{
+			"name": "Slaughter",
+			"group": "+ Maximum Damage",
+			"effect": "+15-20 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "25", "rarity": "rare" }]
+		},
+		{
+			"name": "Butchery",
+			"group": "+ Maximum Damage",
+			"effect": "+21-40 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "35", "rarity": "magic" }]
+		},
+		{
+			"name": "Evisceration",
+			"group": "+ Maximum Damage",
+			"effect": "+41-63 to Maximum Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "45", "rarity": "magic" }]
+		},
+		{
+			"name": "Flame",
+			"group": "+ Fire Damage",
+			"effect": "Adds 1 Minimum and 2-6 Maximum Fire Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "4", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "40", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "40", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "40", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Fire",
+			"group": "+ Fire Damage",
+			"effect": "Adds 1-4 Minimum and 6-11 Maximum Fire Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "15", "rarity": "rare" }]
+		},
+		{
+			"name": "Burning",
+			"group": "+ Fire Damage",
+			"effect": "Adds 5-9 Minimum and 10-20 Maximum Fire Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "25", "rarity": "rare" }]
+		},
+		{
+			"name": "Incineration",
+			"group": "+ Fire Damage",
+			"effect": "Adds 10-20 Minimum and 21-75 Maximum Fire Damage",
+			"itemTypes": [{ "type": "Melee Weapons", "alvl": "43", "rarity": "rare" }]
+		},
+		{
+			"name": "Frost",
+			"group": "+ Cold Damage",
+			"effect": "Adds 1 Minimum and 1-2 Maximum Cold Damage - 1-2 sec Duration",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "4", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "55", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "55", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Icicle",
+			"group": "+ Cold Damage",
+			"effect": "\nAdds 1 Minimum and 3-4 Maximum Cold Damage - 3 sec Duration",
+			"itemTypes": [{ "type": "Weapons", "alvl": "13", "rarity": "rare" }]
+		},
+		{
+			"name": "Glacier",
+			"group": "+ Cold Damage",
+			"effect": "Adds 2-4 Minimum and 4-15 Maximum Cold Damage - 4 sec Duration ",
+			"itemTypes": [{ "type": "Weapons", "alvl": "27", "rarity": "rare" }]
+		},
+		{
+			"name": "Winter",
+			"group": "+ Cold Damage",
+			"effect": "Adds 5-9 Minimum and 16-50 Maximum Cold Damage - 5 sec Duration",
+			"itemTypes": [{ "type": "Melee Weapons", "alvl": "45", "rarity": "rare" }]
+		},
+		{
+			"name": "Shock",
+			"group": "+ Lightning Damage",
+			"effect": "Adds 1 Minimum and 6-23 Maximum Lightning Damage",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "4", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "50", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "50", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "50", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Lightning",
+			"group": "+ Lightning Damage",
+			"effect": "Adds 1 Minimum and 9-16 Maximum Lightning Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "15", "rarity": "rare" }]
+		},
+		{
+			"name": "Thunder",
+			"group": "+ Lightning Damage",
+			"effect": "Adds 1 Minimum and 17-40 Maximum Lightning Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "25", "rarity": "rare" }]
+		},
+		{
+			"name": "Storms",
+			"group": "+ Lightning Damage",
+			"effect": "Adds 1-6 Minimum and 41-120 Maximum Lightning Damage",
+			"itemTypes": [{ "type": "Weapons", "alvl": "34", "rarity": "rare" }]
+		},
+		{
+			"name": "Blight",
+			"group": "+ Poison Damage",
+			"effect": "Adds 1-50 Poison Damage over 2-3 Seconds (Ring/Amu)/\nAdds 7 Poison Damage over 3 seconds (Weapons/Circlets)",
+			"itemTypes": [
+				{ "type": "Circlets", "alvl": "5", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "5", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "45", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "45", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Venom",
+			"group": "+ Poison Damage",
+			"effect": "Adds 21 Poison Damage over 4 Seconds",
+			"itemTypes": [
+				{ "type": "Circlets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "15", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Pestilence",
+			"group": "+ Poison Damage",
+			"effect": "Adds 50 Poison Damage over 5 Seconds",
+			"itemTypes": [
+				{ "type": "Circlets", "alvl": "25", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "25", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Anthrax",
+			"group": "+ Poison Damage",
+			"effect": "Adds 100 Poison Damage over 6 Seconds",
+			"itemTypes": [{ "type": "Weapons", "alvl": "33", "rarity": "rare" }]
+		},
+		{
+			"name": "Remedy",
+			"group": "Poison Length Reduction",
+			"effect": "Poison Length Reduced by 25%",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Armor", "alvl": "7", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "7", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Amelioration",
+			"group": "Poison Length Reduction",
+			"effect": "Poison Length Reduced by 50%",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "18", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "18", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Defiance",
+			"group": "Poison Length Reduction",
+			"effect": "Poison Length Reduced by 75%",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "25", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "25", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "25", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "25", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Leech",
+			"group": "+ Life Stolen",
+			"effect": "2-5% Life Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "6", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "14", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "14", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "24", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "34", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Locust",
+			"group": "+ Life Stolen",
+			"effect": "4-7% Life Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Melee Weapons", "alvl": "20", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "47", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "57", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "47", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Lamprey",
+			"group": "+ Life Stolen",
+			"effect": "6-9% Life Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Melee Weapons", "alvl": "55", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "77", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "85", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "77", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Bat",
+			"group": "+ Mana Stolen",
+			"effect": "2-5% Mana Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "7", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "15", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "35", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "25", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Wraith",
+			"group": "+ Mana Stolen",
+			"effect": "4-7% Mana Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Melee Weapons", "alvl": "21", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "58", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "58", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "58", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Vampire",
+			"group": "+ Mana Stolen",
+			"effect": "6-9% Mana Stolen Per Hit",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "56", "rarity": "rare" },
+				{ "type": "Amulets", "alvl": "78", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "78", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "86", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Regeneration",
+			"group": "+ Life Regeneration",
+			"effect": "Replenish Life +3-5",
+			"itemTypes": [
+				{ "type": "Belts", "alvl": "10", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "10", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "10", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "40", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "40", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "70", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "70", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "70", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Regrowth",
+			"group": "+ Life Regeneration",
+			"effect": "Replenish Life +6-10",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "17", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "17", "rarity": "rare" },
+				{ "type": "Scepters", "alvl": "17", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "55", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "55", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Revivification",
+			"group": "+ Life Regeneration",
+			"effect": "Replenish Life +11-15",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "38", "rarity": "magic" },
+				{ "type": "Scepters", "alvl": "38", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "38", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Readiness",
+			"group": "+ Weapon Speeds",
+			"effect": "10% Attack Speed Increase",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "5", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "20", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Alacrity",
+			"group": "+ Weapon Speeds",
+			"effect": "20% Attack Speed Increase",
+			"itemTypes": [
+				{ "type": "Weapons", "alvl": "25", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "43", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Swiftness",
+			"group": "+ Weapon Speeds",
+			"effect": "30% Attack Speed Increase",
+			"itemTypes": [{ "type": "Weapons", "alvl": "34", "rarity": "rare" }]
+		},
+		{
+			"name": "Quickness",
+			"group": "+ Weapon Speeds",
+			"effect": "40% Attack Speed Increase",
+			"itemTypes": [{ "type": "Weapons", "alvl": "46", "rarity": "rare" }]
+		},
+		{
+			"name": "Blocking",
+			"group": "+ Chance to Block",
+			"effect": "+10% Increased Blocking, 15% Faster Block Rate",
+			"itemTypes": [{ "type": "Shields", "alvl": "1", "rarity": "rare" }]
+		},
+		{
+			"name": "Deflecting",
+			"group": "+ Chance to Block",
+			"effect": "+20% Increased Blocking, 30% Faster Block Rate",
+			"itemTypes": [{ "type": "Shields", "alvl": "11", "rarity": "rare" }]
+		},
+		{
+			"name": "Balance",
+			"group": "Faster Hit Recovery",
+			"effect": "10% Faster Hit Recovery",
+			"itemTypes": [{ "type": "Armor", "alvl": "5", "rarity": "rare" }]
+		},
+		{
+			"name": "Equilibrium",
+			"group": "Faster Hit Recovery",
+			"effect": "17% Faster Hit Recovery",
+			"itemTypes": [
+				{ "type": "Belts", "alvl": "9", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "9", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "9", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Stability",
+			"group": "Faster Hit Recovery",
+			"effect": "24% Faster Hit Recovery",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "18", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "18", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Health",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 1",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "7", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "7", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Protection",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 2",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "18", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "24", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "24", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Absorption",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 3",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "32", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "32", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Life",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 4-7",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "35", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "35", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "41", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "41", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Life Everlasting",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 10-25",
+			"itemTypes": [
+				{ "type": "Amulet", "alvl": "45", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "45", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Amicae",
+			"group": "Damage Reduction",
+			"effect": "Damage Reduced by 8-15",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "51", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "51", "rarity": "magic" },
+				{ "type": "Shields", "alvl": "51", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Warding",
+			"group": "Magic Damage Reduction",
+			"effect": "Magic Damage Reduced by 1",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "7", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "7", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "7", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "7", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Sentinel",
+			"group": "Magic Damage Reduction",
+			"effect": "Magic Damage Reduced by 2",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "18", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "18", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "18", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "24", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "24", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Guarding",
+			"group": "Magic Damage Reduction",
+			"effect": "Magic Damage Reduced by 3",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "26", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "26", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "32", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "32", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Negation",
+			"group": "Magic Damage Reduction",
+			"effect": "Magic Damage Reduced by 4-6",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "41", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "41", "rarity": "magic" },
+				{ "type": "Shields", "alvl": "41", "rarity": "magic" },
+				{ "type": "Amulets", "alvl": "42", "rarity": "magic" },
+				{ "type": "Orbs", "alvl": "42", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Greed",
+			"group": "More Gold",
+			"effect": "25-40% Extra Gold From Monsters",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "1", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "1", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Wealth",
+			"group": "More Gold",
+			"effect": "41-80% Extra Gold From Monsters",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "17", "rarity": "rare" },
+				{ "type": "Belts", "alvl": "17", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "17", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "17", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "17", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Chance",
+			"group": "Better Chance of Getting Magic Items",
+			"effect": "5-15% Better Chance of Getting Magic Item",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "12", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "12", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "12", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "12", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "12", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Fortune",
+			"group": "Better Chance of Getting Magic Items",
+			"effect": "16-25% Better Chance of Getting Magic Item",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "16", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "16", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "16", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "16", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "42", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Luck",
+			"group": "Better Chance of Getting Magic Items",
+			"effect": "26-35% Better Chance of Getting Magic Item",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "26", "rarity": "magic" },
+				{ "type": "Boots", "alvl": "26", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "26", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Apprentice",
+			"group": "- Cast Time",
+			"effect": "10% Faster Cast Rate",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "5", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "5", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "5", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "5", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "5", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Magus",
+			"group": "- Cast Time",
+			"effect": "20% Faster Cast Rate",
+			"itemTypes": [
+				{ "type": "Circlets", "alvl": "29", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "29", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "29", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Thorns",
+			"group": "Attacker Takes Damage",
+			"effect": "Attacker Takes Damage of 1-3",
+			"itemTypes": [{ "type": "Circlets", "alvl": "14", "rarity": "rare" }]
+		},
+		{
+			"name": "Spikes",
+			"group": "Attacker Takes Damage",
+			"effect": "Attacker Takes Damage of 4-6",
+			"itemTypes": [
+				{ "type": "Belts", "alvl": "21", "rarity": "rare" },
+				{ "type": "Body Armor", "alvl": "21", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "21", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "21", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Razors",
+			"group": "Attacker Takes Damage",
+			"effect": "Attacker Takes Damage of 7-9",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "34", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "34", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "34", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Swords",
+			"group": "Attacker Takes Damage",
+			"effect": "Attacker Takes Damage of 10-20",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "47", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "47", "rarity": "magic" },
+				{ "type": "Shields", "alvl": "47", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Ease",
+			"group": "-% Item Requirements",
+			"effect": "Requirements -20%",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "15", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "15", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "15", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Simplicity",
+			"group": "-% Item Requirements",
+			"effect": "Requirements -30%",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "25", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "25", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "25", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Pacing",
+			"group": "Faster Walking/Running Speed",
+			"effect": "10% Faster Run/Walk",
+			"itemTypes": [
+				{ "type": "Boots", "alvl": "12", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "12", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Haste",
+			"group": "Faster Walking/Running Speed",
+			"effect": "20% Faster Run/Walk",
+			"itemTypes": [
+				{ "type": "Boots", "alvl": "22", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "22", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Speed",
+			"group": "Faster Walking/Running Speed",
+			"effect": "30% Faster Run/Walk",
+			"itemTypes": [
+				{ "type": "Boots", "alvl": "37", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "37", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Transportation",
+			"group": "Faster Walking/Running Speed",
+			"effect": "30% Faster Run/Walk, 80-90% Slower Stamina Drain",
+			"itemTypes": [{ "type": "Boots", "alvl": "65", "rarity": "magic" }]
+		},
+		{
+			"name": "Acceleration",
+			"group": "Faster Walking/Running Speed",
+			"effect": "40% Faster Run/Walk",
+			"itemTypes": [{ "type": "Boots", "alvl": "51", "rarity": "magic" }]
+		},
+		{
+			"name": "Bear",
+			"group": "Monster Knockback",
+			"effect": "Knockback",
+			"itemTypes": [{ "type": "Weapons", "alvl": "8", "rarity": "rare" }]
+		},
+		{
+			"name": "Piercing",
+			"group": "Attack Ignores Target's Defense",
+			"effect": "Ignores Target's Defense",
+			"itemTypes": [
+				{ "type": "Katars", "alvl": "25", "rarity": "rare" },
+				{ "type": "Daggers", "alvl": "25", "rarity": "rare" },
+				{ "type": "Rods", "alvl": "25", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Vileness",
+			"group": "Prevent Monster Healing",
+			"effect": "Prevent Monster Heal",
+			"itemTypes": [{ "type": "Weapons", "alvl": "9", "rarity": "rare" }]
+		},
+		{
+			"name": "Thawing",
+			"group": "Freeze Length Reduction",
+			"effect": "Half Freeze Duration",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "10", "rarity": "rare" },
+				{ "type": "Boots", "alvl": "10", "rarity": "rare" },
+				{ "type": "Circlets", "alvl": "10", "rarity": "rare" },
+				{ "type": "Gloves", "alvl": "10", "rarity": "rare" },
+				{ "type": "Orbs", "alvl": "10", "rarity": "rare" },
+				{ "type": "Rings", "alvl": "10", "rarity": "rare" },
+				{ "type": "Shields", "alvl": "10", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Self-Repair",
+			"group": "Repair Durability",
+			"effect": "Repair Durability (3)",
+			"itemTypes": [
+				{ "type": "Armor", "alvl": "3", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "3", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Restoration",
+			"group": "Repair Durability",
+			"effect": "Repair Durability (5)",
+			"itemTypes": [
+				{ "type": "Armor", "alvl": "20", "rarity": "rare" },
+				{ "type": "Weapons", "alvl": "20", "rarity": "rare" }
+			]
+		},
+		{
+			"name": "Ages",
+			"group": "Indestructible",
+			"effect": "Indestructible",
+			"itemTypes": [
+				{ "type": "Body Armor", "alvl": "50", "rarity": "magic" },
+				{ "type": "Weapons", "alvl": "50", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Replenishing",
+			"group": "Replenish Quantity",
+			"effect": "Replenish Quantity (5)",
+			"itemTypes": [{ "type": "Throwing Weapons", "alvl": "5", "rarity": "rare" }]
+		},
+		{
+			"name": "Propogation",
+			"group": "Replenish Quantity",
+			"effect": "Replenish Quantity (10)",
+			"itemTypes": [{ "type": "Throwing Weapons", "alvl": "24", "rarity": "rare" }]
+		},
+		{
+			"name": "Centaur",
+			"group": "Life Per Level",
+			"effect": "+ (0.75  Per Character Level) 0.75-74.25 Life (Based On Character Level)",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "20", "rarity": "magic" },
+				{ "type": "Barbarian Helms", "alvl": "20", "rarity": "magic" },
+				{ "type": "Body Armor", "alvl": "20", "rarity": "magic" },
+				{ "type": "Pelts", "alvl": "20", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Memory",
+			"group": "Mana Per Level",
+			"effect": "+ (0.75 Per Character Level) 0.75-74.25 To Mana (Based On Character Level)",
+			"itemTypes": [
+				{ "type": "Amulets", "alvl": "20", "rarity": "magic" },
+				{ "type": "Circlets", "alvl": "20", "rarity": "magic" },
+				{ "type": "Pelts", "alvl": "20", "rarity": "magic" }
+			]
+		},
+		{
+			"name": "Elephant",
+			"group": "Life and Mana Per Level",
+			"effect": "+ (0.5 Per Character Level) 0.5-49.5 To Life / + (0.25 Per Character Level) 0.25-24.75 To Mana (Based On Character Level)",
+			"itemTypes": [
+				{ "type": "Circlets", "alvl": "37", "rarity": "magic" },
+				{ "type": "Pelts", "alvl": "37", "rarity": "magic" }
+			]
+		}
+	]
+}
